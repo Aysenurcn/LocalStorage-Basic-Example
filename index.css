@@ -1,0 +1,12 @@
+#increase{
+  background-color: darkkhaki;
+  border-radius: 12px;
+}
+#decrease{
+    background-color: darkkhaki;
+    border-radius: 12px;
+  }
+  #counter{
+      margin-left: 62px;
+      color: darkgreen;
+  }
